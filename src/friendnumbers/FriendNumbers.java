@@ -23,7 +23,7 @@ public class FriendNumbers {
     }
 
     public static void main(String[] args) {
-
+        System.out.println(areFriens(284, 220));
     }
 
 }
